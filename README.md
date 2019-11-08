@@ -1,3 +1,5 @@
+Lots of repetition in code..could be more organised!!
+
 # Real_Time Interview app
 
 A Flutter Real_time Interview application with real time Firebase.
